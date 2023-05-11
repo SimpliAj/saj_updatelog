@@ -1,1 +1,2 @@
-{"version":"0.0.2", "notes":"Update"}
+{"version":"0.0.3", "notes":"-Allgemeine Script Performance Verbessert<br>test
+- test"}
